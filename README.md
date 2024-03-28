@@ -1,1 +1,2 @@
-# idatt1001--project
+# IDATT1001 Programmering 1
+#### Final project in the course IDATT1001
